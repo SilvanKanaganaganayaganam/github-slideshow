@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Issue"
 ---
-Das isch glaub Zeile 5
-Use the left arrow to go back!
+
+Issues sind perfekt dazu geeignet, den Überblick über anstehende Arbeiten zu behalten und diese mit den Teampartnern zu besprechen
